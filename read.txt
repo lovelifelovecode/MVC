@@ -1,0 +1,6 @@
+在url中分别输入
+http://localhost/MVC/index.ph
+http://localhost/MVC/index.php?c=Controller&a=displayInfo
+http://localhost/MVC/index.php?c=Controller&a=displayFruit
+
+案例由来：腾讯课堂中的 ThinkPHP5_基础_MVC经典入门（理达课程）
